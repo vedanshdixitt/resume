@@ -1,14 +1,7 @@
-[README.md](https://github.com/user-attachments/files/28171497/README.md)
 # Vedansh Dixit — Resume
 
 **B.Tech Computer Science & Engineering (Cyber Security)**
 VIT Bhopal University · 2023–2027 · CGPA: 8.25
-
----
-
-## 📄 Resume
-
-→ [Download PDF](./resumelatestved.pdf)
 
 ---
 
